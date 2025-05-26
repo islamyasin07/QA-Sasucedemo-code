@@ -7,10 +7,10 @@ I tested the website [saucedemo.com](https://www.saucedemo.com) to check if it w
 
 ## What I Tested
 
-- ✅ Login (correct and wrong password)
-- 🛒 Add to cart and remove item
-- 🧾 Checkout (fill form and confirm order)
-- 🔃 Sorting products by name and price
+-  Login correct and wrong password
+-  Add to cart and remove item
+-  Checkout fill form and confirm order
+-  Sorting products by name and price
 
 ---
 
