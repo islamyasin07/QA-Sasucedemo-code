@@ -28,7 +28,7 @@ test.describe('Checkout Flow', () => {
 
     // Step 5: Fill out checkout form
     const checkout = new CheckoutPage(page);
-    await checkout.fillCheckoutForm('Islam', 'Luna', '00970');
+    await checkout.fillCheckoutForm('Islam', 'Yaseen', '9421');
 
     // Step 6: Complete the order
     await checkout.completeCheckout();
